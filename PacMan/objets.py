@@ -1,3 +1,4 @@
+#Ce fichier n'est pas utilisé pour l'instant
 import pygame
 
 class point(pygame.sprite.Sprite):
